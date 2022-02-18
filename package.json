@@ -1,0 +1,29 @@
+{
+  "name": "quick-permalink",
+  "version": "1.0.0",
+  "description": "A Google Mail addon which displays a permalink to the currently opened email. The permalink opens a to a window which does not load the full GMail interface which is much faster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrk3767/quick-permalink.git"
+  },
+  "keywords": [
+    "productivity",
+    "google",
+    "workplace",
+    "appsscript",
+    "mail"
+  ],
+  "author": "Meik Kenworthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrk3767/quick-permalink/issues"
+  },
+  "homepage": "https://github.com/mrk3767/quick-permalink#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.45"
+  }
+}
